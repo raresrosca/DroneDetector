@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ResizedPhotos.0</folder>
+	<filename>IMG_20190318_161222_BURST16.jpg</filename>
+	<path>/Users/admin/Downloads/ResizedPhotos.0/IMG_20190318_161222_BURST16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>61</ymin>
+			<xmax>405</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+</annotation>

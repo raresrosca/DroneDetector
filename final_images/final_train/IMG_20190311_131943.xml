@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ResizedPhotos.0</folder>
+	<filename>IMG_20190311_131943.jpg</filename>
+	<path>/Users/admin/Downloads/ResizedPhotos.0/IMG_20190311_131943.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>78</ymin>
+			<xmax>358</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>
